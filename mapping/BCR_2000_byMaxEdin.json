@@ -173,7 +173,7 @@
                                 "type": "develop"
                             },
                   "0xb064": {
-                                "name": "SaturationAdjustmentGreen",
+                                "name": "LuminanceAdjustmentGreen",
                                 "type": "develop"
                             },
                   "0xb065": {
@@ -181,7 +181,7 @@
                                 "type": "develop"
                             },
                   "0xb066": {
-                                "name": "HueAdjustmentBlue",
+                                "name": "LuminanceAdjustmentBlue",
                                 "type": "develop"
                             },
                   "0xb067": {
