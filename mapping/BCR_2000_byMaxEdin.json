@@ -1,0 +1,199 @@
+{
+      "base": {
+                  "0xb001": {
+                                "name": "Temperature",
+                                "type": "develop"
+                            },
+                  "0xb002": {
+                                "name": "Tint",
+                                "type": "develop"
+                            },
+                  "0xb003": {
+                                "name": "Exposure2012",
+                                "type": "develop"
+                            },
+                  "0xb004": {
+                                "name": "Contrast2012",
+                                "type": "develop"
+                            },
+                  "0xb005": {
+                                "name": "Highlights2012",
+                                "type": "develop"
+                            },
+                  "0xb006": {
+                                "name": "Shadows2012",
+                                "type": "develop"
+                            },
+                  "0xb007": {
+                                "name": "Whites2012",
+                                "type": "develop"
+                            },
+                  "0xb008": {
+                                "name": "Blacks2012",
+                                "type": "develop"
+                            },
+                  "0xb009": {
+                                "name": "Sharpness",
+                                "type": "develop"
+                            },
+                  "0xb00a": {
+                                "name": "SharpenRadius",
+                                "type": "develop"
+                            },
+                  "0xb00b": {
+                                "name": "SharpenDetail",
+                                "type": "develop"
+                            },
+                  "0xb00c": {
+                                "name": "SharpenEdgeMasking",
+                                "type": "develop"
+                            },
+                  "0xb00d": {
+                                "name": "LuminanceSmoothing",
+                                "type": "develop"
+                            },
+                  "0xb00e": {
+                                "name": "LuminanceNoiseReductionDetail",
+                                "type": "develop"
+                            },
+                  "0xb00f": {
+                                "name": "LuminanceNoiseReductionContrast",
+                                "type": "develop"
+                            },
+                  "0xb010": {
+                                "name": "ColorNoiseReduction",
+                                "type": "develop"
+                            },
+                  "0xb011": {
+                                "name": "SplitToningShadowHue",
+                                "type": "develop"
+                            },
+                  "0xb012": {
+                                "name": "SplitToningShadowSaturation",
+                                "type": "develop"
+                            },
+                  "0xb013": {
+                                "name": "SplitToningHighlightHue",
+                                "type": "develop"
+                            },
+                  "0xb014": {
+                                "name": "SplitToningHighlightSaturation",
+                                "type": "develop"
+                            },
+                  "0xb015": {
+                                "name": "SplitToningBalance",
+                                "type": "develop"
+                            },
+                  "0xb016": {
+                                "name": "Vibrance",
+                                "type": "develop"
+                            },
+                  "0xb017": {
+                                "name": "Saturation",
+                                "type": "develop"
+                            },
+                  "0xb019": {
+                                "name": "",
+                                "type": "develop"
+                            },
+                  "0xb051": {
+                                "name": "HueAdjustmentRed",
+                                "type": "develop"
+                            },
+                  "0xb052": {
+                                "name": "HueAdjustmentOrange",
+                                "type": "develop"
+                            },
+                  "0xb053": {
+                                "name": "HueAdjustmentYellow",
+                                "type": "develop"
+                            },
+                  "0xb054": {
+                                "name": "HueAdjustmentGreen",
+                                "type": "develop"
+                            },
+                  "0xb055": {
+                                "name": "HueAdjustmentAqua",
+                                "type": "develop"
+                            },
+                  "0xb056": {
+                                "name": "HueAdjustmentBlue",
+                                "type": "develop"
+                            },
+                  "0xb057": {
+                                "name": "HueAdjustmentPurple",
+                                "type": "develop"
+                            },
+                  "0xb058": {
+                                "name": "HueAdjustmentMagenta",
+                                "type": "develop"
+                            },
+                  "0xb059": {
+                                "name": "SaturationAdjustmentRed",
+                                "type": "develop"
+                            },
+                  "0xb05a": {
+                                "name": "SaturationAdjustmentOrange",
+                                "type": "develop"
+                            },
+                  "0xb05b": {
+                                "name": "SaturationAdjustmentYellow",
+                                "type": "develop"
+                            },
+                  "0xb05c": {
+                                "name": "SaturationAdjustmentGreen",
+                                "type": "develop"
+                            },
+                  "0xb05d": {
+                                "name": "SaturationAdjustmentAqua",
+                                "type": "develop"
+                            },
+                  "0xb05e": {
+                                "name": "SaturationAdjustmentBlue",
+                                "type": "develop"
+                            },
+                  "0xb05f": {
+                                "name": "SaturationAdjustmentPurple",
+                                "type": "develop"
+                            },
+                  "0xb060": {
+                                "name": "SaturationAdjustmentMagenta",
+                                "type": "develop"
+                            },
+                  "0xb061": {
+                                "name": "LuminanceAdjustmentRed",
+                                "type": "develop"
+                            },
+                  "0xb062": {
+                                "name": "LuminanceAdjustmentOrange",
+                                "type": "develop"
+                            },
+                  "0xb063": {
+                                "name": "LuminanceAdjustmentYellow",
+                                "type": "develop"
+                            },
+                  "0xb064": {
+                                "name": "SaturationAdjustmentGreen",
+                                "type": "develop"
+                            },
+                  "0xb065": {
+                                "name": "LuminanceAdjustmentAqua",
+                                "type": "develop"
+                            },
+                  "0xb066": {
+                                "name": "HueAdjustmentBlue",
+                                "type": "develop"
+                            },
+                  "0xb067": {
+                                "name": "LuminanceAdjustmentPurple",
+                                "type": "develop"
+                            },
+                  "0xb068": {
+                                "name": "LuminanceAdjustmentMagenta",
+                                "type": "develop"
+                            }
+              },
+        "bw": [  ],
+      "jpeg": [  ],
+    "pv2010": [  ]
+}
